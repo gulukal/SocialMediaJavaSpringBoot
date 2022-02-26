@@ -1,0 +1,15 @@
+buildscript {
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:$versions.springBoot")
+    }
+}
+
+dependencies {
+    implementation libs.springDataMongoDb
+    implementation libs.springCloudClientConfig
+    implementation libs.springAmqp
+    implementation   libs.awsS3
+    implementation   libs.awsCloudFront
+    implementation   libs.googleStore
+    implementation libs.auth0Jwt
+}
