@@ -21,14 +21,4 @@ spring:
             scopes: https://www.googleapis.com/auth/devstorage.read_write
   \
 
-
-
-deneme 1
-deneme 2
-deneme 3
-deneme 4
-deneme 5
-deneme 6
-
-
 deneme dev
