@@ -28,6 +28,4 @@ deneme 2
 deneme 3
 deneme 4
 deneme 5
-
-
-deneme pc
+deneme 6
