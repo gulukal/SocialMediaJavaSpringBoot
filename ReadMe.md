@@ -25,3 +25,5 @@ spring:
 
 deneme 1
 deneme 2
+gulukal
+
